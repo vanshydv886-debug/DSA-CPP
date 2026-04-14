@@ -24,6 +24,7 @@ int main() {
     int count = 1;
 
     while(count <= n){
+        
         cout << count << " ";
         count++;
     }
