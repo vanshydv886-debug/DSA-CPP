@@ -15,7 +15,7 @@
 
 
 #include <iostream>
-using newspace std;
+using namespace std;
 
 int main() {
     

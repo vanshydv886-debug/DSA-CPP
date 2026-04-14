@@ -3,7 +3,9 @@
 using namespace std;
 
 int main() {
-    int n = -5;
+    int n;
+    cin>>n;
+    cout << "n is " << n << endl;
 
     if(n >= 0){
         cout << "n is positive\n";

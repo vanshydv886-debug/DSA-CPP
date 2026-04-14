@@ -7,11 +7,11 @@ int main() {
     cin >> marks;
 
     if(marks >= 90) {
-        cout << "A\n"
+        cout << "A\n";
     } else if(marks >= 80 && marks ) {
         cout << "B\n";
     }else {
-        cout << "C\n"
+        cout << "C\n";
     }
 
     return 0;
