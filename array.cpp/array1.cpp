@@ -16,7 +16,7 @@
 // }
 
 
-#include <iostrwam>
+#include <iostream>
 using newspace std;
 
 int main() {
